@@ -25,7 +25,7 @@
 <path d="m14 340 60-91-3 64 52-63-21 90Zm1186-340-60 91 3-64-52 63 21-90Z" fill="#84163e"/>
 <path d="m180 175 23-69 5 43 22-19-33 63Zm844 10-24 68-5-43-22 19 33-63Z" fill="#fcee0a"/>
 <g stroke="#ff2d78" fill="none" stroke-width="2"><path d="M32 66V32h72M1096 32h72v34M32 274v34h72M1096 308h72v-34"/></g>
-<g class="small" fill="#f6a5c1"><text x="56" y="60">YOUSSEFKACHMAR</text><text x="1144" y="288" text-anchor="end">タザ / MOROCCO</text></g>
+<g class="small" fill="#f6a5c1"><text x="56" y="60">YOUSSEFKACHMAR</text><text x="1144" y="288" text-anchor="end">NIGHT CITY</text></g>
 <g transform="translate(0 8)">
 <text class="name ghost" x="595" y="176" fill="#fcee0a">YOUSSEF</text>
 <text class="name ghost" x="605" y="176" fill="#ff2d78">YOUSSEF</text>
@@ -33,6 +33,6 @@
 <g clip-path="url(#slice)"><text class="name slice" x="600" y="176" fill="#ff2d78">YOUSSEF</text></g>
 </g>
 <path d="M390 220h420" stroke="#ff2d78" stroke-width="2"/>
-<g font-family="Consolas,monospace" text-anchor="middle"><text x="600" y="252" font-size="17" letter-spacing="5" fill="#ebcbd7">NETWORKS <tspan fill="#fcee0a">/</tspan> CLOUD <tspan fill="#fcee0a">/</tspan> PYTHON</text></g>
+<g font-family="Consolas,monospace" text-anchor="middle"><text x="600" y="252" font-size="17" letter-spacing="5" fill="#ebcbd7">CYBERSECURITY <tspan fill="#fcee0a">/</tspan> CLOUD <tspan fill="#fcee0a">/</tspan> AI</text></g>
 <path d="M0 0h1200v340H0Z" fill="url(#scan)"/>
 </svg>

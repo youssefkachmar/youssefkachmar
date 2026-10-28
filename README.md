@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=18&amp;pause=1800&amp;color=FF2D78&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=Youssef+Kachmar+%2F+IT+specialist;Networks+%C2%B7+Cloud+%C2%B7+Python;Taza%2C+Morocco" alt="Youssef Kachmar / IT specialist. Networks, cloud, Python. Taza, Morocco." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=18&amp;pause=1800&amp;color=FF2D78&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=Final-year+bachelor%27s+student;Cybersecurity+%2F+Cloud+%2F+AI;Night+City" alt="Final-year bachelor's student. Cybersecurity, cloud and AI. Night City." />
 </p>
 
 <img src="./divider.svg" width="100%" alt="" />
@@ -12,9 +12,10 @@
 
 ~~~python
 youssef = {
-    "location": "Taza, Morocco 🇲🇦",
-    "role": "IT specialist",
-    "interests": ["Networking", "Cloud", "Security", "Automation"],
+    "location": "Night City",
+    "role": "Final-year bachelor's student",
+    "field": ["Cybersecurity", "Cloud Computing", "Artificial Intelligence"],
+    "interests": ["Cloud Security", "Penetration Testing", "AI & Machine Learning"],
     "projects": ["netstage", "ip-slicer", "azure-secure-infrastructure"],
 }
 ~~~
@@ -24,7 +25,7 @@ youssef = {
 ### / stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,python,django,flask,pytorch,sklearn,docker,kubernetes,nginx,terraform,linux,azure,bash,git,github,html,css&amp;theme=dark&amp;perline=8" alt="C, Python, Django, Flask, PyTorch, scikit-learn, Docker, Kubernetes, Nginx, Terraform, Linux, Azure, Bash, Git, GitHub, HTML and CSS" />
+  <img src="https://skillicons.dev/icons?i=c,python,django,flask,pytorch,docker,kubernetes,nginx,terraform,linux,azure,bash,git,github,html,css&amp;theme=dark&amp;perline=8" alt="C, Python, Django, Flask, PyTorch, Docker, Kubernetes, Nginx, Terraform, Linux, Azure, Bash, Git, GitHub, HTML and CSS" />
   <br /><br />
   <img src="https://img.shields.io/badge/pfSense-212121?style=for-the-badge&amp;logo=pfsense&amp;logoColor=FF2D78" alt="pfSense" />
   <img src="https://img.shields.io/badge/Pandas-212121?style=for-the-badge&amp;logo=pandas&amp;logoColor=FF2D78" alt="Pandas" />
@@ -48,7 +49,7 @@ youssef = {
 ### / activity
 
 <p align="center">
-  <a href="https://github.com/youssefkachmar?tab=overview"><img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=youssefkachmar&amp;bg_color=0d1117&amp;color=c9d1d9&amp;line=ff2d78&amp;point=fcee0a&amp;area=true&amp;area_color=381020&amp;hide_border=true&amp;custom_title=activity" alt="Recent public contribution activity" /></a>
+  <a href="https://github.com/youssefkachmar?tab=overview"><img width="100%" src="./activity.svg" alt="GitHub contribution calendar" /></a>
 </p>
 
 <img src="./divider.svg" width="100%" alt="" />
