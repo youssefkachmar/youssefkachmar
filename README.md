@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=18&amp;pause=1800&amp;color=FF2D78&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=Final-year+bachelor%27s+student;Cybersecurity+%2F+Cloud+%2F+AI;Night+City" alt="Final-year bachelor's student. Cybersecurity, cloud and AI. Night City." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=18&amp;pause=1800&amp;color=FF2D78&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=Cybersecurity%2C+Cloud+%26+AI+Student;Final-year+bachelor%27s;Night+City" alt="Cybersecurity, Cloud &amp; AI Student. Final-year bachelor's. Night City." />
 </p>
 
 <img src="./divider.svg" width="100%" alt="" />
@@ -13,7 +13,8 @@
 ~~~python
 youssef = {
     "location": "Night City",
-    "role": "Final-year bachelor's student",
+    "role": "Cybersecurity, Cloud & AI Student",
+    "education": "Final-year bachelor's",
     "field": ["Cybersecurity", "Cloud Computing", "Artificial Intelligence"],
     "interests": ["Cloud Security", "Penetration Testing", "AI & Machine Learning"],
     "projects": ["netstage", "ip-slicer", "azure-secure-infrastructure"],
