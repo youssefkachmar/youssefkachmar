@@ -1,33 +1,38 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="960" height="340" viewBox="0 0 960 340" role="img" aria-labelledby="title desc">
-<title id="title">YOUSSEF.exe</title><desc id="desc">A neon terminal with a network constellation. IT specialist, Taza, Morocco.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
+<title id="title">Youssef Kachmar</title><desc id="desc">Cyberpunk inspired hot pink shards, white glitch lettering, scanlines and small yellow accents.</desc>
 <defs>
- <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#A99BFF" stroke-opacity=".025"/></pattern>
- <radialGradient id="halo"><stop stop-color="#A99BFF" stop-opacity=".06"/><stop offset="1" stop-color="#A99BFF" stop-opacity="0"/></radialGradient>
- <linearGradient id="edge"><stop stop-color="#A99BFF"/><stop offset=".58" stop-color="#303044"/><stop offset="1" stop-color="#79B8FF"/></linearGradient>
+<linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0d1117"/><stop offset="1" stop-color="#230c1a"/></linearGradient>
+<pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse"><path d="M0 0h4" stroke="#000" stroke-opacity=".24"/></pattern>
+<pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#ff2d78" stroke-opacity=".07"/></pattern>
+<clipPath id="slice"><path d="M170 142h850v10H170zM170 182h850v6H170z"/></clipPath>
 </defs>
-<rect x="1" y="1" width="958" height="338" rx="16" fill="#0D1117" stroke="#2A2B38"/>
-<rect x="2" y="43" width="956" height="295" rx="16" fill="url(#grid)"/>
-<ellipse cx="760" cy="175" rx="220" ry="155" fill="url(#halo)"/>
-<path d="M1 43H959" stroke="#2A2B38"/>
-<circle cx="24" cy="23" r="5" fill="#79B8FF"/><circle cx="42" cy="23" r="5" fill="#eac15a"/><circle cx="60" cy="23" r="5" fill="#A99BFF"/>
-<g font-family="Consolas, monospace"><text x="84" y="27" font-size="11" fill="#8F91A6">youssef@github: ~</text>
-<text x="935" y="27" text-anchor="end" font-size="10" fill="#A99BFF">● CONNECTION ESTABLISHED</text>
-<text x="40" y="91" font-size="12" letter-spacing="3" fill="#A99BFF">PERSONAL SYSTEM / 001</text>
-<text x="36" y="163" font-size="67" font-weight="700" letter-spacing="-3" fill="#F1F0F7">YOUSSEF<tspan fill="#A99BFF">.exe</tspan></text>
-<text x="40" y="198" font-size="16" fill="#B3B5C8">systems online. sleep offline.</text>
-<text x="40" y="244" font-size="12" fill="#A4CAFF">NETWORKS</text><text x="117" y="244" font-size="12" fill="#63677E">/</text><text x="137" y="244" font-size="12" fill="#B3B5C8">CLOUD</text><text x="191" y="244" font-size="12" fill="#63677E">/</text><text x="211" y="244" font-size="12" fill="#B3B5C8">PYTHON</text>
-<rect x="40" y="277" width="6" height="6" rx="3" fill="#A99BFF"/><text x="55" y="285" font-size="11" fill="#8F91A6">TAZA, MOROCCO · IT SPECIALIST</text>
-<text x="40" y="317" font-size="10" fill="#64677C">BUILD / BREAK / UNDERSTAND / REPEAT</text>
-<text x="925" y="317" text-anchor="end" font-size="10" fill="#64677C">PORT 22 → OPEN</text></g>
-<g transform="translate(764 173)" fill="none">
- <circle r="89" stroke="#343549" stroke-dasharray="3 7"/>
- <ellipse rx="89" ry="36" transform="rotate(-35)" stroke="#A99BFF" stroke-opacity=".65"/>
- <ellipse rx="89" ry="36" transform="rotate(35)" stroke="#79B8FF" stroke-opacity=".65"/>
- <path d="M0-89V89M-89 0H89" stroke="#343549"/>
- <path d="M-30-18 0-35 30-18V18L0 35-30 18Z" fill="#181824" stroke="#A99BFF"/>
- <path d="m-30-18 30 17 30-17M0-1V35" stroke="#A99BFF"/>
- <circle cx="73" cy="-39" r="5" fill="#A99BFF"/><circle cx="-73" cy="-39" r="5" fill="#79B8FF"/>
- <circle cy="89" r="4" fill="#A99BFF"/>
+<style>
+.name{font:900 italic 118px 'Arial Black','Arial',sans-serif;letter-spacing:-6px;text-anchor:middle}
+.small{font:12px Consolas,monospace;letter-spacing:3px}
+.ghost{animation:glitch 5s infinite;opacity:.65}
+.slice{animation:cut 5s infinite;opacity:0}
+@keyframes glitch{0%,89%,100%{transform:translateX(0)}90%{transform:translateX(-8px)}92%{transform:translateX(5px)}94%{transform:translateX(-3px)}}
+@keyframes cut{0%,89%,96%,100%{opacity:0;transform:translateX(0)}90%,93%{opacity:1;transform:translateX(12px)}92%,95%{opacity:1;transform:translateX(-10px)}}
+@media(prefers-reduced-motion:reduce){.ghost,.slice{animation:none}}
+</style>
+<path d="M20 1H1199V317l-22 22H1V20Z" fill="url(#bg)" stroke="#6d203f"/>
+<path d="M20 1H1199V317l-22 22H1V20Z" fill="url(#grid)"/>
+<g fill="#ff2d78">
+<path d="M0 340V178l43 47-10-91 65 102-13-126 77 155 17-67 16 85 64-20-78 77Z"/>
+<path d="M1200 0v161l-48-51 16 89-70-103 14 127-83-151-18 67-15-86-64 22 80-75Z"/>
+<path d="m0 79 52 34-29 10 49 35-72-22Zm1200 181-50-31 26-12-48-34 72 21Z" opacity=".5"/>
 </g>
-<path d="M18 339H942" stroke="url(#edge)" stroke-width="2"/>
+<path d="m14 340 60-91-3 64 52-63-21 90Zm1186-340-60 91 3-64-52 63 21-90Z" fill="#84163e"/>
+<path d="m180 175 23-69 5 43 22-19-33 63Zm844 10-24 68-5-43-22 19 33-63Z" fill="#fcee0a"/>
+<g stroke="#ff2d78" fill="none" stroke-width="2"><path d="M32 66V32h72M1096 32h72v34M32 274v34h72M1096 308h72v-34"/></g>
+<g class="small" fill="#f6a5c1"><text x="56" y="60">YOUSSEFKACHMAR</text><text x="1144" y="288" text-anchor="end">タザ / MOROCCO</text></g>
+<g transform="translate(0 8)">
+<text class="name ghost" x="595" y="176" fill="#fcee0a">YOUSSEF</text>
+<text class="name ghost" x="605" y="176" fill="#ff2d78">YOUSSEF</text>
+<text class="name" x="600" y="176" fill="#fff9fc">YOUSSEF</text>
+<g clip-path="url(#slice)"><text class="name slice" x="600" y="176" fill="#ff2d78">YOUSSEF</text></g>
+</g>
+<path d="M390 220h420" stroke="#ff2d78" stroke-width="2"/>
+<g font-family="Consolas,monospace" text-anchor="middle"><text x="600" y="252" font-size="17" letter-spacing="5" fill="#ebcbd7">NETWORKS <tspan fill="#fcee0a">/</tspan> CLOUD <tspan fill="#fcee0a">/</tspan> PYTHON</text></g>
+<path d="M0 0h1200v340H0Z" fill="url(#scan)"/>
 </svg>
