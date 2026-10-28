@@ -24,9 +24,12 @@ youssef = {
 ### / stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,flask,pytorch,sklearn,docker,kubernetes,nginx,linux,azure,bash,git,github,html,css&amp;theme=dark&amp;perline=8" alt="Python, Django, Flask, PyTorch, scikit-learn, Docker, Kubernetes, Nginx, Linux, Azure, Bash, Git, GitHub, HTML and CSS" />
+  <img src="https://skillicons.dev/icons?i=c,python,django,flask,pytorch,sklearn,docker,kubernetes,nginx,terraform,linux,azure,bash,git,github,html,css&amp;theme=dark&amp;perline=8" alt="C, Python, Django, Flask, PyTorch, scikit-learn, Docker, Kubernetes, Nginx, Terraform, Linux, Azure, Bash, Git, GitHub, HTML and CSS" />
   <br /><br />
   <img src="https://img.shields.io/badge/pfSense-212121?style=for-the-badge&amp;logo=pfsense&amp;logoColor=FF2D78" alt="pfSense" />
+  <img src="https://img.shields.io/badge/Pandas-212121?style=for-the-badge&amp;logo=pandas&amp;logoColor=FF2D78" alt="Pandas" />
+  <img src="https://img.shields.io/badge/Wireshark-212121?style=for-the-badge&amp;logo=wireshark&amp;logoColor=FF2D78" alt="Wireshark" />
+  <img src="https://img.shields.io/badge/Nmap-212121?style=for-the-badge&amp;labelColor=212121&amp;color=FF2D78" alt="Nmap" />
 </p>
 
 <img src="./divider.svg" width="100%" alt="" />
