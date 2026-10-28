@@ -3,17 +3,17 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=18&amp;pause=1500&amp;color=39FF88&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=%3E+building+tools%2C+one+experiment+at+a+time.;%3E+networks+%2F+cloud+%2F+python;%3E+it+worked+yesterday." alt="Building tools, one experiment at a time. Networks / cloud / Python. It worked yesterday." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=18&amp;pause=1500&amp;color=A99BFF&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=%3E+building+tools%2C+one+experiment+at+a+time.;%3E+networks+%2F+cloud+%2F+python;%3E+it+worked+yesterday." alt="Building tools, one experiment at a time. Networks / cloud / Python. It worked yesterday." />
 </p>
 
 <p align="center">
-  <a href="https://github.com/youssefkachmar?tab=repositories"><img src="https://img.shields.io/badge/REPOSITORIES-39FF88?style=for-the-badge&amp;logo=github&amp;logoColor=0D1117" alt="Explore repositories" /></a>
-  <a href="https://github.com/youssefkachmar/portfolio"><img src="https://img.shields.io/badge/PORTFOLIO-FF4D8D?style=for-the-badge&amp;logo=github&amp;logoColor=ffffff" alt="Portfolio repository" /></a>
+  <a href="https://github.com/youssefkachmar?tab=repositories"><img src="https://img.shields.io/badge/REPOSITORIES-A99BFF?style=for-the-badge&amp;logo=github&amp;logoColor=0D1117" alt="Explore repositories" /></a>
+  <a href="https://github.com/youssefkachmar/portfolio"><img src="https://img.shields.io/badge/PORTFOLIO-79B8FF?style=for-the-badge&amp;logo=github&amp;logoColor=ffffff" alt="Portfolio repository" /></a>
 </p>
 
 <img src="./divider.svg" width="100%" alt="" />
 
-### 🟢 / whoami
+### 🌙 / whoami
 
 ```python
 class Youssef:
@@ -53,7 +53,7 @@ class Youssef:
 ### 📡 / transmission history
 
 <p align="center">
-  <a href="https://github.com/youssefkachmar?tab=overview"><img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=youssefkachmar&amp;bg_color=0d1117&amp;color=95aa9d&amp;line=39ff88&amp;point=ff4d8d&amp;area=true&amp;area_color=163b27&amp;hide_border=true&amp;custom_title=PUBLIC%20ACTIVITY" alt="Recent public contribution activity — open GitHub overview" /></a>
+  <a href="https://github.com/youssefkachmar?tab=overview"><img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=youssefkachmar&amp;bg_color=0D1117&amp;color=A6A9BD&amp;line=A99BFF&amp;point=79B8FF&amp;area=true&amp;area_color=252437&amp;hide_border=true&amp;custom_title=PUBLIC%20ACTIVITY" alt="Recent public contribution activity — open GitHub overview" /></a>
 </p>
 
 <details>
