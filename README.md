@@ -47,6 +47,15 @@ youssef = {
 
 <img src="./divider.svg" width="100%" alt="" />
 
+
+### / connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/youssef-kachmar/"><img src="https://img.shields.io/badge/LINKEDIN-FF2D78?style=for-the-badge&amp;logo=linkedin&amp;logoColor=ffffff" alt="Connect with Youssef Kachmar on LinkedIn" /></a>
+</p>
+
+<img src="./divider.svg" width="100%" alt="" />
+
 ### / activity
 
 <p align="center">
