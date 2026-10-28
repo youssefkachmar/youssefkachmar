@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="340" viewBox="0 0 960 340" role="img" aria-labelledby="title desc">
+<title id="title">YOUSSEF.exe</title><desc id="desc">A neon terminal with a network constellation. IT specialist, Taza, Morocco.</desc>
+<defs>
+ <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#39ff88" stroke-opacity=".055"/></pattern>
+ <radialGradient id="halo"><stop stop-color="#39ff88" stop-opacity=".13"/><stop offset="1" stop-color="#39ff88" stop-opacity="0"/></radialGradient>
+ <linearGradient id="edge"><stop stop-color="#39ff88"/><stop offset=".58" stop-color="#163629"/><stop offset="1" stop-color="#ff4d8d"/></linearGradient>
+</defs>
+<rect x="1" y="1" width="958" height="338" rx="16" fill="#0d1117" stroke="#26352e"/>
+<rect x="2" y="43" width="956" height="295" rx="16" fill="url(#grid)"/>
+<ellipse cx="760" cy="175" rx="220" ry="155" fill="url(#halo)"/>
+<path d="M1 43H959" stroke="#26352e"/>
+<circle cx="24" cy="23" r="5" fill="#ff4d8d"/><circle cx="42" cy="23" r="5" fill="#eac15a"/><circle cx="60" cy="23" r="5" fill="#39ff88"/>
+<g font-family="Consolas, monospace"><text x="84" y="27" font-size="11" fill="#83958b">youssef@github: ~</text>
+<text x="935" y="27" text-anchor="end" font-size="10" fill="#39ff88">● CONNECTION ESTABLISHED</text>
+<text x="40" y="91" font-size="12" letter-spacing="3" fill="#39ff88">PERSONAL SYSTEM / 001</text>
+<text x="36" y="163" font-size="67" font-weight="700" letter-spacing="-3" fill="#edfff4">YOUSSEF<tspan fill="#39ff88">.exe</tspan></text>
+<text x="40" y="198" font-size="16" fill="#a9beb1">systems online. sleep offline.</text>
+<text x="40" y="244" font-size="12" fill="#ff76a6">NETWORKS</text><text x="117" y="244" font-size="12" fill="#607869">/</text><text x="137" y="244" font-size="12" fill="#a9beb1">CLOUD</text><text x="191" y="244" font-size="12" fill="#607869">/</text><text x="211" y="244" font-size="12" fill="#a9beb1">PYTHON</text>
+<rect x="40" y="277" width="6" height="6" rx="3" fill="#39ff88"/><text x="55" y="285" font-size="11" fill="#83958b">TAZA, MOROCCO · IT SPECIALIST</text>
+<text x="40" y="317" font-size="10" fill="#52685b">BUILD / BREAK / UNDERSTAND / REPEAT</text>
+<text x="925" y="317" text-anchor="end" font-size="10" fill="#52685b">PORT 22 → OPEN</text></g>
+<g transform="translate(764 173)" fill="none">
+ <circle r="89" stroke="#284438" stroke-dasharray="3 7"/>
+ <ellipse rx="89" ry="36" transform="rotate(-35)" stroke="#39ff88" stroke-opacity=".65"/>
+ <ellipse rx="89" ry="36" transform="rotate(35)" stroke="#ff4d8d" stroke-opacity=".65"/>
+ <path d="M0-89V89M-89 0H89" stroke="#284438"/>
+ <path d="M-30-18 0-35 30-18V18L0 35-30 18Z" fill="#101e17" stroke="#39ff88"/>
+ <path d="m-30-18 30 17 30-17M0-1V35" stroke="#39ff88"/>
+ <circle cx="73" cy="-39" r="5" fill="#39ff88"/><circle cx="-73" cy="-39" r="5" fill="#ff4d8d"/>
+ <circle cy="89" r="4" fill="#39ff88"/>
+</g>
+<path d="M18 339H942" stroke="url(#edge)" stroke-width="2"/>
+</svg>
