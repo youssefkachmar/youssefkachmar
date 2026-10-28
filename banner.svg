@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
+<title id="title">Youssef Kachmar</title><desc id="desc">Cyberpunk inspired hot pink shards, white glitch lettering, scanlines and small yellow accents.</desc>
+<defs>
+<linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0d1117"/><stop offset="1" stop-color="#230c1a"/></linearGradient>
+<pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse"><path d="M0 0h4" stroke="#000" stroke-opacity=".24"/></pattern>
+<pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#ff2d78" stroke-opacity=".07"/></pattern>
+<clipPath id="slice"><path d="M170 142h850v10H170zM170 182h850v6H170z"/></clipPath>
+</defs>
+<style>
+.name{font:900 italic 118px 'Arial Black','Arial',sans-serif;letter-spacing:-6px;text-anchor:middle}
+.small{font:12px Consolas,monospace;letter-spacing:3px}
+.ghost{animation:glitch 5s infinite;opacity:.65}
+.slice{animation:cut 5s infinite;opacity:0}
+@keyframes glitch{0%,89%,100%{transform:translateX(0)}90%{transform:translateX(-8px)}92%{transform:translateX(5px)}94%{transform:translateX(-3px)}}
+@keyframes cut{0%,89%,96%,100%{opacity:0;transform:translateX(0)}90%,93%{opacity:1;transform:translateX(12px)}92%,95%{opacity:1;transform:translateX(-10px)}}
+@media(prefers-reduced-motion:reduce){.ghost,.slice{animation:none}}
+</style>
+<path d="M20 1H1199V317l-22 22H1V20Z" fill="url(#bg)" stroke="#6d203f"/>
+<path d="M20 1H1199V317l-22 22H1V20Z" fill="url(#grid)"/>
+<g fill="#ff2d78">
+<path d="M0 340V178l43 47-10-91 65 102-13-126 77 155 17-67 16 85 64-20-78 77Z"/>
+<path d="M1200 0v161l-48-51 16 89-70-103 14 127-83-151-18 67-15-86-64 22 80-75Z"/>
+<path d="m0 79 52 34-29 10 49 35-72-22Zm1200 181-50-31 26-12-48-34 72 21Z" opacity=".5"/>
+</g>
+<path d="m14 340 60-91-3 64 52-63-21 90Zm1186-340-60 91 3-64-52 63 21-90Z" fill="#84163e"/>
+<path d="m180 175 23-69 5 43 22-19-33 63Zm844 10-24 68-5-43-22 19 33-63Z" fill="#fcee0a"/>
+<g stroke="#ff2d78" fill="none" stroke-width="2"><path d="M32 66V32h72M1096 32h72v34M32 274v34h72M1096 308h72v-34"/></g>
+<g class="small" fill="#f6a5c1"><text x="56" y="60">YOUSSEFKACHMAR</text><text x="1144" y="288" text-anchor="end">NIGHT CITY</text></g>
+<g transform="translate(0 8)">
+<text class="name ghost" x="595" y="176" fill="#fcee0a">YOUSSEF</text>
+<text class="name ghost" x="605" y="176" fill="#ff2d78">YOUSSEF</text>
+<text class="name" x="600" y="176" fill="#fff9fc">YOUSSEF</text>
+<g clip-path="url(#slice)"><text class="name slice" x="600" y="176" fill="#ff2d78">YOUSSEF</text></g>
+</g>
+<path d="M390 220h420" stroke="#ff2d78" stroke-width="2"/>
+<g font-family="Consolas,monospace" text-anchor="middle"><text x="600" y="252" font-size="17" letter-spacing="5" fill="#ebcbd7">CYBERSECURITY <tspan fill="#fcee0a">/</tspan> CLOUD <tspan fill="#fcee0a">/</tspan> AI</text></g>
+<path d="M0 0h1200v340H0Z" fill="url(#scan)"/>
+</svg>
