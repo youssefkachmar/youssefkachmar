@@ -383,7 +383,7 @@
 <rect x="880" y="65" width="12" height="12" rx="2" fill="#1d1822"><title>2026-10-25: contribution level 0/4</title></rect>
 <rect x="880" y="81" width="12" height="12" rx="2" fill="#50182e"><title>2026-10-26: contribution level 1/4</title></rect>
 <rect x="880" y="97" width="12" height="12" rx="2" fill="#1d1822"><title>2026-10-27: contribution level 0/4</title></rect>
-<rect x="880" y="113" width="12" height="12" rx="2" fill="#50182e"><title>2026-10-28: contribution level 1/4</title></rect>
+<rect x="880" y="113" width="12" height="12" rx="2" fill="#ff2d78"><title>2026-10-28: contribution level 4/4</title></rect>
 <text x="25" y="207" fill="#a6a9bd" font-size="10">PUBLIC ACTIVITY</text><text x="790" y="207" fill="#a6a9bd" font-size="10">LESS</text>
 <rect x="822" y="197" width="12" height="12" rx="2" fill="#1d1822"/>
 <rect x="838" y="197" width="12" height="12" rx="2" fill="#50182e"/>
