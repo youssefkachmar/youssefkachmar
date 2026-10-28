@@ -52,6 +52,8 @@ youssef = {
 
 <p align="center">
   <a href="https://www.linkedin.com/in/youssef-kachmar/"><img src="https://img.shields.io/badge/LINKEDIN-FF2D78?style=for-the-badge&amp;logo=linkedin&amp;logoColor=ffffff" alt="Connect with Youssef Kachmar on LinkedIn" /></a>
+  <a href="mailto:youssefkachmar46@gmail.com"><img src="https://img.shields.io/badge/EMAIL-FF2D78?style=for-the-badge&amp;logo=gmail&amp;logoColor=ffffff" alt="Email youssefkachmar46@gmail.com" /></a>
+  <img src="https://img.shields.io/badge/DISCORD-plut9x__-212121?style=for-the-badge&amp;logo=discord&amp;logoColor=FF2D78" alt="Discord username: plut9x_" />
 </p>
 
 <img src="./divider.svg" width="100%" alt="" />
